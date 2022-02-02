@@ -1,2 +1,3 @@
 escreva o seu email
 digite sua senha parceiro
+digite sua idade
